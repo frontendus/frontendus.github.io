@@ -7,4 +7,4 @@
 - I learned all the basic stuff about html and css basic designs.
 
 ## Scranshot
-  ![[https://pasteboard.co/cgmtWwttzQPI.png]]
+  ![Screanshot of the website](https://pasteboard.co/cgmtWwttzQPI.png)
